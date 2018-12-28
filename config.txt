@@ -1,4 +1,4 @@
-﻿token=NTI0Nzg4NTkwNjY5MjAxNDE4.DwcDbw.RXkxzs_qXi9tCdRUiaLM4aByIvA
+token=NTI0Nzg4NTkwNjY5MjAxNDE4.DwcDbw.RXkxzs_qXi9tCdRUiaLM4aByIvA
 owner=433198762706599936
 prefix=r
 game= الشيخ بريتي
